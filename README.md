@@ -1,3 +1,3 @@
--- Hey Friends so build catan for friends with more than 4 people and don't want to pay premium for simple game.
+-- For friends who don't want to pay premium for a simple game as catan
 -- Added Uno classic, 0-7 and No mercy
 -- More games will be added in future (whenever i've ai tokens)
